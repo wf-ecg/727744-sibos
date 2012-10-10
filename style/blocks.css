@@ -6,6 +6,9 @@ td.blocks {
     background-color: #f7f6f1;
     padding: 5px 9px;
 }
+td.blocks p {
+    max-width: 95%;
+}
 .blocks h3 {
     background-color: #e6d8c9;
     margin: -9px;
