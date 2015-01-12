@@ -23,5 +23,5 @@
     <p>© 2012 Wells Fargo Bank, N.A. All rights reserved. ECG-727744</p>
     <script src="../lib/nosel.js"></script>
     <script src="../script/main.js"></script>
-    <script src="../script/ecg-ga.js"></script>
+    <script src="/lib/js/ecg-ga.js"></script>
 </div>
